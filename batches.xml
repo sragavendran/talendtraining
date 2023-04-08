@@ -2,5 +2,7 @@
   <batches>
     <batch>AWS1</batch>
     <batch>AWS2</batch>
+    <batch>GCP1</batch>
+    <batch>GCP2</batch>
   </batches>
 </xml>
